@@ -2,12 +2,11 @@
 
 Edge detection plays a crucial role in various computer vision and image processing applications. The Canny edge detection algorithm is known for its effectiveness in identifying edges while reducing noise and producing thin, well-defined edges.
 
-## Features
+## Project Outlines 
 
 - Calculates gradient magnitude and direction.
 - Applies non-maximum suppression to obtain refined edges.
 - Utilizes hysteresis thresholding for edge tracking.
-- Provides a customizable pipeline for edge detection.
 
 ## Edge-detected Image Result
 
@@ -17,4 +16,4 @@ Edge detection plays a crucial role in various computer vision and image process
 
 ![result ](https://github.com/LaouaMERiLO/Canny_Image_Edge_Detection/assets/86894912/1c37a330-e02e-416c-bfb0-85c2e81cfb39)
 
-ij
+
